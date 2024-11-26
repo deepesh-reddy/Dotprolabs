@@ -9,15 +9,15 @@ const Faqs = () => {
 
   const faqs = [
     {
-      question: "What is Material Tailwind?",
+      question: "How do i get Referral Code?",
       answer: "Material Tailwind is a framework that enhances Tailwind CSS with additional styles and components."
     },
     {
-      question: "How to use Material Tailwind?",
+      question: "Do i get rewarded in tokens or ETH when i refer buyers?",
       answer: "You can use Material Tailwind by importing its components into your Tailwind CSS project."
     },
     {
-      question: "What can I do with Material Tailwind?",
+      question: "How do i get into Dotprolabs?",
       answer: "Material Tailwind allows you to quickly build modern, responsive websites with a focus on design."
     }
   ];
