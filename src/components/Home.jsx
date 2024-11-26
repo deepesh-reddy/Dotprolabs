@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div className="bg-no-repeat min-h-screen bg-[url('/Home/rings.png'),url('/Home/shades.png')] bg-[length:100vw_100vh] flex flex-col md:flex-row items-center relative">
       {/* Sphere Section - Moved to top on small screens */}
-      <div className="w-full md:w-1/2 flex justify-center order-1 md:order-2 mb-8 md:mb-0 mt-[28%] sm:mt-8">
+      <div className="w-full md:w-1/2 flex justify-center order-1 md:order-2 mb-8 md:mb-0 mt-[33%] sm:mt-8">
         <img
           src="/Home/sphere.png"
           alt="Sphere"
